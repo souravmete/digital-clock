@@ -1,1 +1,1 @@
-# digital-clock with HTML CSS and JavaScript
+# digital-clock with HTML and  CSS
